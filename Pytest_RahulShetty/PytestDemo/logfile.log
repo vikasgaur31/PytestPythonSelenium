@@ -1,0 +1,19 @@
+2020-01-24 16:54:52,811, : WARNING : test_logging  : Warning statement is executed
+2020-01-24 16:54:52,811, : ERROR : test_logging  : Error statement is executed
+2020-01-24 16:54:52,811, : CRITICAL : test_logging  : Critical statement is executed
+2020-01-25 23:07:09,467, : INFO : Pytest_RahulShetty.PytestDemo.baseClass  : Gaur
+2020-01-25 23:08:12,827, : INFO : Pytest_RahulShetty.PytestDemo.baseClass  : Gaur
+2020-01-25 23:08:12,827, : INFO : Pytest_RahulShetty.PytestDemo.baseClass  : Vikas
+2020-01-25 23:08:12,827, : INFO : Pytest_RahulShetty.PytestDemo.baseClass  : ['Vikas', 'Gaur']
+2020-01-27 11:11:03,007, : INFO : test_editProfile  : Gaur
+2020-01-27 11:11:03,008, : INFO : test_editProfile  : Vikas
+2020-01-27 11:11:03,008, : INFO : test_editProfile  : ['Vikas', 'Gaur']
+2020-01-27 11:12:04,111, : INFO : C:\Users\vikgaur\PycharmProjects\PytestPythonSelenium\Pytest_RahulShetty\PytestDemo\baseClass.py  : Gaur
+2020-01-27 11:12:04,111, : INFO : C:\Users\vikgaur\PycharmProjects\PytestPythonSelenium\Pytest_RahulShetty\PytestDemo\baseClass.py  : Vikas
+2020-01-27 11:12:04,111, : INFO : C:\Users\vikgaur\PycharmProjects\PytestPythonSelenium\Pytest_RahulShetty\PytestDemo\baseClass.py  : ['Vikas', 'Gaur']
+2020-01-27 11:13:06,920, : INFO : getLogger  : Gaur
+2020-01-27 11:13:06,920, : INFO : getLogger  : Vikas
+2020-01-27 11:13:06,920, : INFO : getLogger  : ['Vikas', 'Gaur']
+2020-01-27 11:13:45,749, : INFO : test_editProfile  : Gaur
+2020-01-27 11:13:45,750, : INFO : test_editProfile  : Vikas
+2020-01-27 11:13:45,750, : INFO : test_editProfile  : ['Vikas', 'Gaur']

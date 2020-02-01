@@ -1,0 +1,6 @@
+2020-01-27 12:03:55,614, : INFO : test_editProfile  : Gaur
+2020-01-27 12:03:55,614, : INFO : test_editProfile  : Vikas
+2020-01-27 12:03:55,614, : INFO : test_editProfile  : ['Vikas', 'Gaur']
+2020-01-27 12:03:55,658, : WARNING : test_logging  : Warning statement is executed
+2020-01-27 12:03:55,658, : ERROR : test_logging  : Error statement is executed
+2020-01-27 12:03:55,658, : CRITICAL : test_logging  : Critical statement is executed
